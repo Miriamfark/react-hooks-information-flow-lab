@@ -10,7 +10,7 @@
 Last time we worked on the Shopping List app, we ended up with the following
 component hierarchy:
 
-```txt
+```txtv
 App
 └── ShoppingList
     ├── Item
